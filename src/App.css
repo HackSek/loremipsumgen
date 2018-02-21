@@ -1,17 +1,11 @@
 body {
-
-    margin: 40px;
-
+  margin: 40px;
 }
 
 select {
-
-   color: grey
-
+  color: grey
 }
 
 .inline-form {
-
-padding-top: 40px;
-
+  padding-top: 40px;
 }
